@@ -1,5 +1,3 @@
-## README.md for Power BI Churn Analysis Project
-
 This document provides a comprehensive overview of a Power BI project focusing on customer churn analysis. The project leverages a combination of SQL Server for ETL processes, Power BI for data transformation and visualization, and Python for machine learning-based churn prediction.
 
 ### Project Goal
